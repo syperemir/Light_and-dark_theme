@@ -34,7 +34,7 @@ textarea {
 /* Dark */
 
 .dark {
-   --main: #fff;
+   --main: #19b8df;
    --main-rgb: 255, 255, 255;
    color-scheme: dark;
 }
