@@ -31,3 +31,10 @@ textarea {
    resize: none;
    min-height: 100px;
 }
+/* Dark */
+
+.dark {
+   --main: #fff;
+   --main-rgb: 255, 255, 255;
+   color-scheme: dark;
+}
